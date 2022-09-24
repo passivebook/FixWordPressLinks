@@ -1,0 +1,1555 @@
+<!-- wp:paragraph -->
+<p>Looking to learn how to start a blog and make money?&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"right","id":6068,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image alignright size-full"><img src="http://passivebook.com/wp-content/uploads/2021/12/How-to-Start-a-Blog.png" alt="how to start a blog" class="wp-image-6068"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I will show you how, in this step-by-step guide.&nbsp;In fact, this is the exact process I used to build PassiveBook.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You will learn how to choose your blog’s niche, create a blog in WordPress and write a blog post optimized for search engines. Then I will show you how to promote your blog to get traffic and monetize your blog to make money.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>By the end of this guide, you will be able to build a successful blog from scratch.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you have any questions along the way, just drop a comment and I will help you out.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So let us jump right in.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:uagb/table-of-contents {"block_id":"9b47d3ac","classMigrate":true,"bulletColor":"var(\u002d\u002dcontrast)","scrollToTop":true,"scrollToTopColor":"","scrollToTopBgColor":"","mappingHeaders":[true,true,true,false,false,false],"headingTitle":"\u003cstrong\u003eContents\u003c/strong\u003e","backgroundColor":"var(\u002d\u002dbase-3)","linkColor":"var(\u002d\u002dcontrast)","headingColor":"var(\u002d\u002dcontrast)","leftPadding":30,"rightPadding":30,"topPadding":30,"bottomPadding":30,"headingBottom":0,"contentPaddingDesktop":0,"borderStyle":"dashed","fontFamily":"","fontWeight":"","fontDecoration":"none","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderTopLeftRadius":6,"overallBorderTopRightRadius":6,"overallBorderBottomLeftRadius":6,"overallBorderBottomRightRadius":6,"overallBorderStyle":"dashed"} /-->
+
+<!-- wp:heading -->
+<h2 id="should-you-start-a-blog">Should You Start a Blog?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you want to <a rel="noreferrer noopener" href="http://passivebook.com/business/make-money-online" target="_blank">make money online</a> by sharing your knowledge with the world, then you should consider blogging.&nbsp;The money you make can not only replace your job but also make you rich. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="what-is-a-blog">What is a blog?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A blog is a website that shares informational content in the form of articles, also known as blog posts. The content is usually displayed in reverse chronological order. Readers can comment and take part in a discussion around the blog’s topic.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:uagb/faq {"block_id":"70629746","layout":"grid","inactiveOtherItems":false,"expandFirstItem":false,"enableSchemaSupport":true,"enableSeparator":true,"boxBgColor":"transparent","questionTextColor":"","questionTextActiveColor":"","questionTextBgColor":"","vquestionPaddingDesktop":15,"hquestionPaddingDesktop":15,"answerTextColor":"#313131","questionloadGoogleFonts":true,"questionFontWeight":"600","icon":"","iconActive":"","iconAlign":"row-reverse","iconSize":20,"iconSizeTablet":12,"iconSizeMobile":12,"columns":1,"schema":"{\u0022@context\u0022:\u0022https://schema.org\u0022,\u0022@type\u0022:\u0022FAQPage\u0022,\u0022@id\u0022:\u0022https://passivebook.com/blogging/start-a-blog/\u0022,\u0022mainEntity\u0022:[{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022What’s the difference between a blog and a website?\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Blogs are a type of website. The main difference is that blogs encourage discussions around a topic and are frequently updated. Websites are usually static. \u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022What does blog stand for?\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022The word blog is a truncation of the word “weblog'' and is usually an information website that encourages discussion.\u0022}}]}","enableToggle":false,"questionLeftPaddingDesktop":15,"questionBottomPaddingDesktop":15,"answerTopPadding":0,"answerRightPadding":15,"answerBottomPadding":15,"answerLeftPadding":15,"answerTopPaddingTablet":10,"answerRightPaddingTablet":10,"answerBottomPaddingTablet":10,"answerLeftPaddingTablet":10,"answerTopPaddingMobile":10,"answerRightPaddingMobile":10,"answerBottomPaddingMobile":10,"answerLeftPaddingMobile":10,"overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderTopLeftRadius":0,"overallBorderTopRightRadius":0,"overallBorderBottomLeftRadius":0,"overallBorderBottomRightRadius":0,"overallBorderStyle":"solid","overallBorderColor":"#dedede"} -->
+<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-70629746 uagb-faq-icon-row-reverse uagb-faq-layout-grid uagb-faq-expand-first-false uagb-faq-inactive-other-false uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="false" role="tablist"><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","@id":"https://passivebook.com/blogging/start-a-blog/","mainEntity":[{"@type":"Question","name":"What’s the difference between a blog and a website?","acceptedAnswer":{"@type":"Answer","text":"Blogs are a type of website. The main difference is that blogs encourage discussions around a topic and are frequently updated. Websites are usually static. "}},{"@type":"Question","name":"What does blog stand for?","acceptedAnswer":{"@type":"Answer","text":"The word blog is a truncation of the word “weblog'' and is usually an information website that encourages discussion."}}]}</script><!-- wp:uagb/faq-child {"block_id":"d64b602e","question":"What’s the difference between a blog and a website?","answer":"Blogs are a type of website. The main difference is that blogs encourage discussions around a topic and are frequently updated. Websites are usually static. ","icon":"","iconActive":"","layout":"grid"} -->
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-d64b602e" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-question">What’s the difference between a blog and a website?</span></div><p class="uagb-faq-content">Blogs are a type of website. The main difference is that blogs encourage discussions around a topic and are frequently updated. Websites are usually static. </p></div>
+<!-- /wp:uagb/faq-child -->
+
+<!-- wp:uagb/faq-child {"block_id":"41ac976c","question":"What does blog stand for?","answer":"The word blog is a truncation of the word “weblog'' and is usually an information website that encourages discussion.","icon":"","iconActive":"","layout":"grid"} -->
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-41ac976c" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-question">What does blog stand for?</span></div><p class="uagb-faq-content">The word blog is a truncation of the word “weblog'' and is usually an information website that encourages discussion.</p></div>
+<!-- /wp:uagb/faq-child --></div>
+<!-- /wp:uagb/faq -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="how-much-money-can-you-make-from-blogging">How much money can you make from blogging?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The median ad income of a blog with 100 posts is $2815 per month. Your income potential will be higher if you have more blog posts. You can also make more money if you monetize with affiliate marketing and digital products.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:presto-player/youtube {"autoplay":false,"id":1,"src":"https://www.youtube.com/watch?v=yX5vGan6ulw","preset":6,"video_id":"yX5vGan6ulw"} /-->
+
+<!-- wp:paragraph -->
+<p>The recipe blog <a rel="noreferrer noopener" href="https://pinchofyum.com/november-traffic-income-report" target="_blank">Pinch of Yum made $95,197 in a single month</a>. Blogging is no longer an idle hobby. You can build a million-dollar business blogging.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:uagb/faq {"block_id":"abcea3db","layout":"grid","inactiveOtherItems":false,"expandFirstItem":false,"enableSchemaSupport":true,"enableSeparator":true,"boxBgColor":"transparent","questionTextColor":"","questionTextActiveColor":"","questionTextBgColor":"","vquestionPaddingDesktop":15,"hquestionPaddingDesktop":15,"answerTextColor":"#313131","questionloadGoogleFonts":true,"questionFontWeight":"600","icon":"","iconActive":"","iconAlign":"row-reverse","iconSize":20,"iconSizeTablet":12,"iconSizeMobile":12,"columns":1,"schema":"{\u0022@context\u0022:\u0022https://schema.org\u0022,\u0022@type\u0022:\u0022FAQPage\u0022,\u0022@id\u0022:\u0022https://passivebook.com/blogging/start-a-blog/\u0022,\u0022mainEntity\u0022:[{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022Is blogging profitable in [year]?\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Blogging is more profitable than ever in [year]. A blog with 100 blog posts can make ~$2000 per month from traditional display ads. Blogs monetized with affiliate marketing and digital products can make more than $15,000+ per month.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022What has replaced blogging? \u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Blogging has been around since the early days of the internet. Many other social media platforms have come and gone, but they have not been able to replace blogging. Blogging has not only remained evergreen but has also evolved over the years.\u0022}}]}","enableToggle":false,"questionLeftPaddingDesktop":15,"questionBottomPaddingDesktop":15,"answerTopPadding":0,"answerRightPadding":15,"answerBottomPadding":15,"answerLeftPadding":15,"answerTopPaddingTablet":10,"answerRightPaddingTablet":10,"answerBottomPaddingTablet":10,"answerLeftPaddingTablet":10,"answerTopPaddingMobile":10,"answerRightPaddingMobile":10,"answerBottomPaddingMobile":10,"answerLeftPaddingMobile":10,"overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderTopLeftRadius":0,"overallBorderTopRightRadius":0,"overallBorderBottomLeftRadius":0,"overallBorderBottomRightRadius":0,"overallBorderStyle":"solid","overallBorderColor":"#dedede"} -->
+<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-abcea3db uagb-faq-icon-row-reverse uagb-faq-layout-grid uagb-faq-expand-first-false uagb-faq-inactive-other-false uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="false" role="tablist"><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","@id":"https://passivebook.com/blogging/start-a-blog/","mainEntity":[{"@type":"Question","name":"Is blogging profitable in [year]?","acceptedAnswer":{"@type":"Answer","text":"Blogging is more profitable than ever in [year]. A blog with 100 blog posts can make ~$2000 per month from traditional display ads. Blogs monetized with affiliate marketing and digital products can make more than $15,000+ per month."}},{"@type":"Question","name":"What has replaced blogging? ","acceptedAnswer":{"@type":"Answer","text":"Blogging has been around since the early days of the internet. Many other social media platforms have come and gone, but they have not been able to replace blogging. Blogging has not only remained evergreen but has also evolved over the years."}}]}</script><!-- wp:uagb/faq-child {"block_id":"a9b8b004","question":"Is blogging profitable in [year]?","answer":"Blogging is more profitable than ever in [year]. A blog with 100 blog posts can make ~$2000 per month from traditional display ads. Blogs monetized with affiliate marketing and digital products can make more than $15,000+ per month.","icon":"","iconActive":"","layout":"grid"} -->
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-a9b8b004" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-question">Is blogging profitable in [year]?</span></div><p class="uagb-faq-content">Blogging is more profitable than ever in [year]. A blog with 100 blog posts can make ~$2000 per month from traditional display ads. Blogs monetized with affiliate marketing and digital products can make more than $15,000+ per month.</p></div>
+<!-- /wp:uagb/faq-child -->
+
+<!-- wp:uagb/faq-child {"block_id":"b2e57a03","question":"What has replaced blogging? ","answer":"Blogging has been around since the early days of the internet. Many other social media platforms have come and gone, but they have not been able to replace blogging. Blogging has not only remained evergreen but has also evolved over the years.","icon":"","iconActive":"","layout":"grid"} -->
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b2e57a03" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-question">What has replaced blogging? </span></div><p class="uagb-faq-content">Blogging has been around since the early days of the internet. Many other social media platforms have come and gone, but they have not been able to replace blogging. Blogging has not only remained evergreen but has also evolved over the years.</p></div>
+<!-- /wp:uagb/faq-child --></div>
+<!-- /wp:uagb/faq -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="who-can-start-a-blog">Who can start a blog?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You don’t have to be a great writer to start a blog. All you need is a passion for a particular topic. It helps if you already have expertise in the topic you blog about. Prior expertise will cut down research time, helping you create content a lot faster. Your content will also stand out because you can include your personal experiences in your writing.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="choose-a-blog-niche">Choose a Blog Niche</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Before you start a blog, you should choose a niche for your blog. A blog’s niche is a specific topic that you will create content around.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="why-choose-a-blog-niche">Why choose a blog niche?&nbsp;</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The biggest mistake you can make is writing content about every idea that you have. If you blog about everything, then you are building a blog about nothing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you write about different topics in a single blog, then you will not build a loyal audience for your blog. It also becomes difficult to build authority for your website in search engines, limiting your organic traffic.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you choose a single niche and write all your topics in that single niche, your blog can become an authority website that ranks on top in search. Your readers are also likely to stick around and become loyal subscribers.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="finding-your-ideal-niche">Finding Your Ideal Niche</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Your ideal blog niche will be an intersection of your passion, experience and skills. If you are passionate about your niche, you will enjoy creating the content. It will not feel like hard work. If you have experience, then you can provide your own unique perspective that will make your content stand out from the crowd. If you already have the skills and knowledge, then you will be able to limit the time you spend on research.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":4165,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/Ideal-Niche.png" alt="ideal niche" class="wp-image-4165"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>If you are not able to find a niche that fits all three, then try to find a niche that intersects with at least two of the three circles.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The following questions will help you brainstorm ideas for your blog’s niche:&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>What do you enjoy doing in your free time? Example: taking care of your dog.&nbsp;</li><li>What do you enjoy learning or want to learn? Example: cooking.&nbsp;</li><li>What are you good at? Example: DIY crafts.</li><li>What do you have expertise in? Example: programming.&nbsp;</li><li>What problems or personal challenges have you solved that you can help others with? Example: weight loss.&nbsp;</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Come up with a few niche ideas.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="check-if-your-niche-is-profitable">Check if Your Niche Is Profitable</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>After you have identified your niche, you need to make sure it passes a few checks before you start a blog around that niche.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Can it be monetized?&nbsp;</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Once you have chosen a few niches, you must also ensure that there is ample scope to monetize content in your niche. You can monetize almost all niches with ads. But you will see a higher return on your investment if you can sell affiliate and digital products. Visit competitors in your niche to find out how they make money. Are they selling their own products or promoting other people’s products?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Is it non-seasonal and evergreen?&nbsp;</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Some niches like skiing and holidays are seasonal. People aren’t interested in skiing until winter comes.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":6160,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image aligncenter size-full imageborder"><img src="https://passivebook.com/wp-content/uploads/2022/08/Google-Trends-Seasonality-Example-Skiing.png" alt="Google Trends Seasonality Example Skiing" class="wp-image-6160"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>There are also niches like tech and fashion where the content you create will quickly become stale and outdated. For example, searches for iPhone 5 peaked in 2012 when it was released but quickly declined and died out.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":6163,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image aligncenter size-full imageborder"><img src="https://passivebook.com/wp-content/uploads/2022/08/Google-Trends-Non-Evergreen-Example-iPhone-5.png" alt="Google Trends Non Evergreen Example iPhone 5" class="wp-image-6163"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>So ideally you want to pick a niche where the content you create is non-seasonal and evergreen. In evergreen niches, the content you create has the potential to bring you traffic for life. For example, dog training is an example of an evergreen niche and here is how the trend looks.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":6165,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image aligncenter size-full imageborder"><img src="https://passivebook.com/wp-content/uploads/2022/08/Google-Trends-Evergreen-Non-Seasonal-Example-Dog-Training.png" alt="Google Trends Evergreen Non Seasonal Example Dog Training" class="wp-image-6165"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>You can check the seasonality of your niche through <a href="https://trends.google.com/" target="_blank" rel="noreferrer noopener">Google Trends</a>. You don't want spikes or cycles and the line should be trending upward.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Put the main keyword of your niche in <a href="https://trends.google.com/" target="_blank" rel="noreferrer noopener">Google Trends</a> and check if it is trending up and if it is non-seasonal.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="create-your-blog">How to Start a Blog</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Once you have chosen your blog niche, it is time to make your blog.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you already have a website setup, then you can skip this section and jump to writing &amp; publishing blog posts. If you don’t have a website already, then in this section we will give you a condensed version of our detailed guide on <a href="http://passivebook.com/website/make-a-website" target="_blank" rel="noreferrer noopener">how to make a website</a>.&nbsp;&nbsp;&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="how-to-name-your-blog">1. Decide a Blog Name</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Your blog’s niche should help you decide the name of your blog.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Your blog’s name should immediately tell new visitors what your blog is about.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We recommend you keep your blog’s name to two words (Example: Minimalist Baker). One of the two words should be a keyword from your niche. The other word can be something that makes your website brandable. For example, our blog teaches people how to make passive income, so we have named it Passive Book.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You don’t have to choose the exact name of your niche for your blog. For example if you have a cooking blog, you can include the words food or recipes instead of the word cooking.&nbsp;Use a <a rel="noreferrer noopener" href="https://businessnamegenerator.com/" target="_blank">Business Name Generator</a> to brainstorm the name of your blog. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you are building a personal blog, then you can simply use your name. But remember that if you plan to sell your website in the future, it is much more difficult to transfer your brand when it is your name.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="register-a-com-domain">3. Register A Domain Name</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Once you have decided on a few blog names, check if the .com domain name and the social media handles are available. You can use <a href="https://namechk.com/" target="_blank" rel="noreferrer noopener">Namechk</a> to check the availability of both your domain name and social media handles.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":15429,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image aligncenter size-full imageborder"><img src="https://passivebook.com/wp-content/uploads/2022/09/namechk-example.png" alt="namechk example" class="wp-image-15429"/><figcaption><em>In the above example, although the domain name androiddog.com is available, the Facebook and Pinterest username is not. So it might be worth considering another domain name.</em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>86% of all websites use .com, so most of your visitors will instinctively try to visit your blog typing .com. So do not register a domain name with other extensions like .net or .org. Don’t include hyphens and numbers. Do not use words with multiple spellings (example colour vs color).&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":3211,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/com-Domain-Statistics.png" alt="com domain statistics" class="wp-image-3211"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:block {"ref":15855} /-->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="choose-a-blogging-platform">3. Setup WordPress</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>There are many blogging platforms but the self-hosted wordpress.org powers <a href="https://trends.builtwith.com/cms/open-source" target="_blank" rel="noreferrer noopener">70% of blogs</a> on the internet. <a href="https://trends.builtwith.com/cms/traffic/Entire-Internet" target="_blank" rel="noreferrer noopener">44% of all websites</a> on the internet use WordPress.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":3186,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/Global-Usage-of-Blog-Website-Builder.png" alt="website builder used by internet 3" class="wp-image-3186"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Self hosted WordPress is the most widely used blog platform. Plugins make a WordPress site highly customizable. It is also the cheapest platform to get started.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>WordPress.org vs WordPress.com</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Do not confuse self-hosted WordPress<strong>.org</strong> with hosted WordPress<strong>.com</strong>. You will need to pay $45/month to be able to install plugins with WordPress.com. It is free to install plugins with a self hosted WordPress blog.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":3188,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/WordPress.org-vs-WordPress.com_.png" alt="wordpress.org vs wordpress.com" class="wp-image-3188"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Why Avoid Free Blogging Platforms</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Avoid free options like Blogger.com and Tumblr.com. They may seem great because they are free, but when was the last time you saw a blogger or tumblr site ranking on Google?&nbsp;&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Content written on these platforms does not rank in search engines even if the content is good. If you want to drive traffic to your blog and make money from it, follow this guide and set up self-hosted wordpress for your blog.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Also avoid using a free website builder. Website builders like squarespace and wix charge $16 per month just to add a custom domain name.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":3395,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image aligncenter size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/wix-premium-plan-custom-domain.png" alt="wix premium plan custom domain" class="wp-image-3395"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>How much does it cost to start a blog?</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It will cost you $2.95 per month to host your WordPress blog. A domain will cost you $12/year. So that is a total of $3.95 per month, which is less than the price of a coffee for all the unlimited features that a self-hosted WordPress blog has to offer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":3210,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://passivebook.com/wp-content/uploads/2022/08/Website-Cost.png" alt="Website Cost" class="wp-image-3210"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>What to do if you already have a free blog?</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you already have a blog on a free platform like blogger, then you can migrate your blog to a self-hosted wordpress blog using one of the migration tools.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="buy-hosting">Install WordPress in Hosting</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You need to get a web hosting service to install WordPress. Web hosting is a computer (aka server) on the internet that stores the data of your blog. When someone visits your blog, data is transferred from your web hosting server to your visitor’s browser.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":3227,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/How-Domain-Hosting-Works.png" alt="how domain hosting works" class="wp-image-3227"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:block {"ref":15865} /-->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="login-to-wordpress-dashboard">Login to WordPress Dashboard</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Visit <strong>yourdomain.com/wp-admin</strong> to access the WordPress dashboard. Your WordPress dashboard is the admin area from where you can install themes &amp; plugins.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Use the Email and Password you provided during installation to login. If you don’t have a password, use the “Lost your password?” to generate a new password.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":3273,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://passivebook.com/wp-content/uploads/2021/10/WordPress-Login.jpg" alt="wordpress login" class="wp-image-3273"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="install-wp-themes">Install WP Themes</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A WordPress theme lets you easily customize your blog design. Your new WordPress blog will be installed with a default blog theme that doesn’t look very great. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:block {"ref":15883} /-->
+
+<!-- wp:paragraph -->
+<p>Although you can use a free theme (there are thousands of free themes available), we recommend using a premium theme.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Premium themes not only reduce your website’s load time but also help you customize your website to your heart’s desire.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here are the premium themes we recommend:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li><a href="http://passivebook.com/go/generatepress/" target="_blank" rel="noreferrer noopener">GeneratePress</a></li><li><a href="http://passivebook.com/go/kadence/" target="_blank" rel="noreferrer noopener">Kadence</a></li><li><a href="http://passivebook.com/go/astra/" target="_blank" rel="noreferrer noopener">WP Astra</a></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="install-wp-plugins">Install WP Plugins</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>WordPress plugins will extend the functionality of your blog.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:block {"ref":15887} /-->
+
+<!-- wp:paragraph -->
+<p>There are many different plugins that you can install, but here are the ones which we recommend:&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Backup Plugin</strong> lets you restore your blog in case of a hack or a crash. Recommended Plugin: <a href="http://passivebook.com/go/wpvivid/">WPVi</a><a href="http://passivebook.com/go/wpvivid/" target="_blank" rel="noreferrer noopener">v</a><a href="http://passivebook.com/go/wpvivid/">id</a> (paid) or <a href="https://wordpress.org/plugins/updraftplus/" target="_blank" rel="noreferrer noopener">UpdraftPlus</a> (free).&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>SEO Plugin</strong> lets you optimize your blog for search engines so you get search engine traffic. Recommended Plugin: <a href="http://passivebook.com/go/seopress/" target="_blank" rel="noreferrer noopener">SEOPress</a> (paid).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Analytics Plugin</strong> lets you use Google Analytics to track your blog traffic. Recommended Plugin: <a href="http://passivebook.com/go/seopress/" target="_blank" rel="noreferrer noopener">SEOPress</a> (paid) or <a href="https://wordpress.org/plugins/ga-google-analytics/" target="_blank" rel="noreferrer noopener">GA Google Analytics</a> (free).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Cache Plugin</strong> reduces your blog load time, improving user experience. Recommended Plugin: <a href="http://passivebook.com/go/wprocket/" target="_blank" rel="noreferrer noopener">WP Rocket</a> (paid). Free options like <a href="https://wordpress.org/plugins/w3-total-cache/" target="_blank" rel="noreferrer noopener">W3 Total Cache</a> and <a href="https://wordpress.org/plugins/wp-super-cache/" target="_blank" rel="noreferrer noopener">WP Super Cache</a> do not improve your Core Web Vitals like <a href="http://passivebook.com/go/wprocket/" target="_blank" rel="noreferrer noopener">WP Rocket</a> (paid).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Page Builder</strong> lets you visually build any type of page imaginable with a drag and drop interface. Recommended Plugin: <a href="http://passivebook.com/go/thrivearchitect/" target="_blank" rel="noreferrer noopener">Thrive Architect</a> (paid) part of Thrive Suite subscription.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Security Plugins</strong> help protect your website from hacks. Recommended Plugin: <a href="https://www.wordfence.com/">Wordfen</a><a rel="noreferrer noopener" href="https://www.wordfence.com/" target="_blank">ce</a> (free).&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Social Share Plugins</strong> lets you show social share buttons on your blog. Recommended Plugin: <a href="http://passivebook.com/go/essb/" target="_blank" rel="noreferrer noopener">Easy Social Share Buttons</a> (paid).&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="customize-wordpress">Customize WordPress</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>There are a few settings in your WordPress blog that you can play around with to customize your blog further:&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:block {"ref":15919} /-->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="create-static-pages">Create Static Pages</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Before you start writing blog posts, you may want to create the following pages:&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Home Page</strong>: You can create a dedicated landing page with a page builder or you can keep this as your latest posts, which is the default.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>About Page</strong>: Create a page that tells a little about yourself and why you started this blog. You can keep it simple at first and later update it as your blog evolves.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Contact Page</strong>: You may want to consider having a contact page where visitors can fill in a form to contact you. Use contact form plugins like <a rel="noreferrer noopener" href="https://wordpress.org/plugins/fluentform/" target="_blank">Fluent Forms</a>.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Privacy Policy</strong>: It is important you have a privacy policy page to remain compliant with various privacy laws across the world. WordPress generates its own privacy policy for you. But you can also use a tool like <a rel="noreferrer noopener" href="http://passivebook.com/go/termly/" target="_blank">Termly</a> to generate your own privacy policy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Terms of Service</strong>: You may want to create a terms of service page if you are selling anything through your blog. Use a terms &amp; conditions generator like <a rel="noreferrer noopener" href="http://passivebook.com/go/termly/" target="_blank">Termly</a> to create it.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Use pages in WordPress to add static content. Go to <strong>WP Dashboard &gt; Pages &gt; Add New.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Write the headline of your content.&nbsp;</li><li>Populate the body content</li><li>Click the publish button.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:image {"id":3507,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://passivebook.com/wp-content/uploads/2021/10/Create-WP-Content-2.png" alt="create wp content 2" class="wp-image-3507"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 id="create-your-editorial-calendar">Create Your Editorial Calendar</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Before writing your first blog post, brainstorm topic ideas for your first 100 hundred articles. Having a list of blog post ideas not only helps organize your blog better but also ensures you don’t lose momentum because you run out of ideas.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The goal is to find topics your target audience is already searching for on Google. You can then create resources that provide the information your audience is looking for.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There are three ways to brainstorm topics to write about:&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Competitor Research</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Google your target keyword and find other websites and blogs writing articles in your niche.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4201,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/Search-Keyword-in-Google.png" alt="search keyword in google" class="wp-image-4201"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>2. Look at the articles your competition is writing about to create your own topic list.&nbsp;For example, one of the competitors for paleo recipes is also writing about paleo soups, stews and chills. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4203,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://passivebook.com/wp-content/uploads/2022/08/Competitor-Blog-Posts.jpg" alt="competitor blog posts" class="wp-image-4203"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>3. Use <a rel="noreferrer noopener" href="http://passivebook.com/go/similarweb/" target="_blank">Similarweb</a> or <a rel="noreferrer noopener" href="http://passivebook.com/go/ahrefs/" target="_blank">Ahrefs</a> to find the competitors of your competitors and rinse and repeat the process.&nbsp;In <a href="http://passivebook.com/go/ahrefs/" target="_blank" rel="noreferrer noopener">Ahrefs</a> you can you do this by going to Site Explorer &gt; Competing Domains. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":4205,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/Ahrefs-Site-Explorer-Competing-Domains.png" alt="ahrefs site explorer competing domains" class="wp-image-4205"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Keyword Research</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Plugin your seed keyword into your keyword research tool like Ahref’s Keyword Explorer.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Find keywords related to your seed keyword and add them to your blog post list.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4210,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/Ahrefs-Keyword-Explorer-Matching-Terms.png" alt="ahrefs keyword explorer related terms" class="wp-image-4210"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Forum &amp; Community Research</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Find forums, communities or subreddit in your niche. Just type "keyword" + forum in google. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":4214,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image aligncenter size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/Search-Forums.png" alt="search forums" class="wp-image-4214"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>2. Look at the questions people are asking in these forums and write articles on your blog to answer these questions.&nbsp;For example, every single thread in the below paleo forum can become a blog post. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4215,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/Forum-Questions.png" alt="forum questions" class="wp-image-4215"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>3. You can also do this with Quora and Facebook Groups.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="add-posts-to-your-editorial-calendar">Add Posts to Your Editorial Calendar</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The biggest reason why most blogs fail is because of a lack of consistency. An average blog that posts new content in a consistent schedule will do better than a good blog that posts irregularly.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So once you have brainstormed the topics for your first hundred posts, put it in an editorial calendar.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An editorial calendar will help you schedule your writing on a weekly or monthly basis. You will also never run out of ideas and will always have something to write about.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Use a spreadsheet like <a rel="noreferrer noopener" href="https://docs.google.com/spreadsheets/" target="_blank">Google Sheets</a> or Excel to create your editorial calendar. Just add your blog post title, keyword and post category to a spreadsheet. You can also add more columns according to your needs.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[thrive_leads id='15809']
+<!-- /wp:shortcode -->
+
+<!-- wp:paragraph -->
+<p>You can also use your editorial calendar to plan the SEO silo structure of your website.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Once you have posted your first ten articles you can also think of setting a deadline for each article. Take the posts from your excel and put it in your <a rel="noreferrer noopener" href="https://calendar.google.com/" target="_blank">Google Calendar</a>. If you have a workspace app like <a href="http://passivebook.com/go/trello/" target="_blank" rel="noreferrer noopener">Trello</a>, <a rel="noreferrer noopener" href="http://passivebook.com/go/asana" target="_blank">Asana</a> or <a rel="noreferrer noopener" href="http://passivebook.com/go/notion" target="_blank">Notion</a> then you can add each blog post as a task to your Kanban Board and then visualize it in a calendar view.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="write-the-perfect-blog-post">Write the Perfect Blog Post</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Now that you have your editorial calendar setup, it is time to start writing blog posts. You need to go through four independent steps: research, write, edit and publish. You will repeat the process for every single blog post that you write. We will go into each stage in more detail:&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="step-1-research-your-post">Step 1: Research Your Post</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Once you pick a blog topic, the next step is to do your research. Writing a blog post is difficult if you start from a blank page. Research not only simplifies the writing process but also ensures your content is high quality.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you are writing a blog post to tell a story, share an opinion, updates or case study, then you can skip the research step and jump straight to writing.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>But researching before writing an article is critical if you want to write articles that brings search engine traffic.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Identify Search Intent</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Before you write the article you need to understand what a reader is looking for when he does a google search for your target keyword.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Google is really good at identifying and satisfying a user’s search intent. They do this by looking at how their users interact with the search results. Let us look at an example:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Let us say you want to grow a tomato garden. So you search "How to grow tomatoes".</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4663,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/Search-Intent-Pogo-Stick-1.png" alt="google pogo stick effect 1" class="wp-image-4663"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>2. Like most users you click on the first search result.&nbsp;But you don't find what you are looking for. So you hit on the back button and click on the next search result. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4664,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/Search-Intent-Pogo-Stick-2.png" alt="google pogo stick effect 2" class="wp-image-4664"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>3. The second article is not any good either. It is a generic article sharing information you already know. So you hit the back button again and try to find what you are looking for in the third result. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4665,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/Search-Intent-Pogo-Stick-3.png" alt="google pogo stick effect 3" class="wp-image-4665"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>4. The third result is exactly what you are looking for. You spend 5 minutes reading the article and because you found what you are looking for you did not revisit the search results. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. This behavior is called pogo sticking and google uses this information to determine if the content satisfies search intent. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Google will push the first two articles down in future search results because it did not satisfy search intent. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4666,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/Search-Intent-Pogo-Stick-4.png" alt="google pogo stick effect 4" class="wp-image-4666"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>7. The third article that satisfied search intent gets pushed up, so in the future the article can be found by others with fewer clicks.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4667,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/Search-Intent-Pogo-Stick-5.png" alt="google pogo stick effect 5" class="wp-image-4667"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>So it is really important that the article you write satisfies the searcher’s intent. If it doesn’t, it will never rank on Google.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To satisfy search intent, Google the target keyword of your blog post and look at what is already ranking on Google. Write an article that is better but in a similar format.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For example, let us take the two keywords "how to make money online" vs "how to make money online <strong><span style="text-decoration: underline;">for free</span></strong>". </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Searchers of both these keywords have the intent to make money online. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>But when you search for "how to make money online" you see Oberlo ranking on top for the keyword:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4676,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/Search-Result-for-how-to-make-money-online.png" alt="search result for how to make money online" class="wp-image-4676"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>If you do the same search for "how to make money online <strong><span style="text-decoration: underline;">for free</span></strong>" you see an article by dollar sprout rank on top. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4677,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/Search-Result-make-money-online-for-free.png" alt="search result make money online for free" class="wp-image-4677"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>This is because the two keywords have slightly different search intent. In the second keyword, the searcher wants to make money online without investing any money. So if your article recommends ecommerce or blogging as one of the options, then it will not rank for the second keyword (how to make money online for free).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Decide Article Type</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What type of articles are ranking in the first 5 to 10 search results? Are they list posts, how-to posts or something else? Your article should be in the same or similar format.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For example, the keyword "how to make money online" might seem like a how to post. But when you do a google search, you will find all the top search results are list posts. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":4680,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image aligncenter size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/How-to-Keyword-has-List-Post.png" alt="how to keyword has list post" class="wp-image-4680"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Determine Target Word Count</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Although word count is not a ranking factor, looking at the word count of the top search results on Google will help you determine your article's target word count. The word count of the top search results is usually the length required to satisfy search intent. If you write an article that is too long or too short, it won’t rank in the search results.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Outline Your Article</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>During your research process you want to create an outline for your own article.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Go through the first 20 or more search results to find what topics are being covered in each article.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Make a note of the topics covered in your own google docs.&nbsp;Save the links of the sources in your google docs so that you can refer back to them as you write.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5093,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="https://passivebook.com/wp-content/uploads/2022/08/Create-an-Article-Outline-in-Google-Docs.png" alt="article outline in google docs how to grow tomatoes" class="wp-image-5093"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Try to cover as many of these topics as possible in your own article. If you cannot write an article better than the ones that are already ranking in google then you should not write that article.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Additional Research</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There are several ways to enrich your article outline even further beyond the top search results. Here are a few:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Check out questions asked on the topic on Quora and Reddit. Answer those questions in your article. You can see the kind of questions people are asking about growing tomatoes. </li><li>Watch YouTube videos on the topic</li><li>Read books on the topic</li><li>Look for questions asked in the topic in online niche forums and facebook groups.&nbsp;</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"id":5097,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://passivebook.com/wp-content/uploads/2022/08/Using-Quora-for-Article-Research.png" alt="using quora for article research" class="wp-image-5097"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Get Inspiration for Images</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Look at the images that are being used by the search results already ranking on google. Try to draw inspiration and create or use similar images in your own website. Don’t copy images because that is likely to make your website look like a generic blog. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Use <a rel="noreferrer noopener" href="http://passivebook.com/go/canva/" target="_blank">Canva Pro</a> to create custom images. The pro version unlocks stock photos and vectors that can be customized in the editor and used in your blog. We used <a rel="noreferrer noopener" href="http://passivebook.com/go/canva/" target="_blank">Canva Pro</a> to create the images of this blog post.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5100,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/Passive-Book-Images-Created-in-Canva-Pro.jpg" alt="passivebook images created in canva pro" class="wp-image-5100"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Get Lead Magnet Inspiration</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It is important that you collect your subscriber’s email address. Usually visitors are offered an opt-in bribe or lead magnet in exchange for their email address. Take inspiration from the top search results to create your own lead magnets.&nbsp;Here is an example of a lead magnet. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":5102,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://passivebook.com/wp-content/uploads/2021/11/Lead-Magnet-Example.png" alt="lead magnet example" class="wp-image-5102"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="step-2-write-your-draft">Step 2: Write Your Draft</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Once you have completed the research phase and have your outline ready, it is time to write your blog post. To really speed up your writing, you can use blog post templates which act as a guide for consistent quality.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Don’t edit as you write. Just get the words on paper as fast as you can. We will focus on editing your draft in the next step.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="write-the-body-content">Write the Body Content</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You should write the body of your blog post before writing the introduction.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Writing the body will take you more time than writing an introduction. But by writing the body first, you have the freedom to write the way you want without being limited by your introduction.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Although the actual body content will be specific to your topic, here are a few best practices:&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Small Digestible Chunks</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Try to keep both your sentences and paragraphs short. When you write for the web, you want your writing to be spaced out and easily scannable. Aim for paragraphs shorter than 150 characters.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5142,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/Small-Digestible-Paragraphs.png" alt="small digestible paragraphs" class="wp-image-5142"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Write for a fifth-grader</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Your writing should be at a fifth grader’s reading level. Use simple words and phrases. Reduce the use of jargon and insider language. Short sentences and paragraphs will also improve readability. Use the <a rel="noreferrer noopener" href="https://hemingwayapp.com/" target="_blank">Hemingway app</a> to check the readability score of your blog post.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5149,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/Hemingway-Editor.png" alt="hemingway editor" class="wp-image-5149"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Write like you talk</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Your blog post should sound like the reader is having a conversation with a friend. Use a lot of personal pronouns, especially “you”.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Write to one person</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Your sentence should talk to only one person. For example: “Lot of people struggle with weight loss." vs "If you are reading this it means that you are struggling to lose weight."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5151,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/Write-to-One-Person.png" alt="write to one person" class="wp-image-5151"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Write for Skimmers</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The article should be written for skimmers who are short on patience. Break down your article into headings and subheadings. Use bullet points and bold text.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Don’t Waste Your Reader’s Time</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Don’t wait till the end to reveal what the reader is looking for.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you are writing a question post, give the readers what they want immediately in the beginning. Then use the rest of the article to expand on the answer.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you are writing a list post, then have the most interesting or unusual item as the first one on the list.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here is an example where the readers gets the answer to their question in the first few sentences of the article. Because it satisfies the readers intent quickly, this article ranks on top for "how long does it take to form a habit". </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5161,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="https://passivebook.com/wp-content/uploads/2022/08/Provide-Answer-in-First-Sentence-Dont-Waste-Readers-Time.png" alt="dont waste readers time" class="wp-image-5161"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>No Fluff</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Don’t write fluff and filler content to hit the target word count.&nbsp;The introduction of the following article on "How to Control Ants" is an example of fluff content. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5157,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/Fluff-Content.png" alt="fluff content" class="wp-image-5157"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="write-your-introduction">Write Your Introduction</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Write your introduction after your body content so that it does not dictate how you write the article.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>1. Keyword</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Include the exact keyword you are trying to rank for preferably in the first sentence of your article.&nbsp;You can also include variations of your target keyword in the rest of the introduction. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>2. Question</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Start the article asking questions the article helps answer.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>3. Outcome/Benefit<br></strong>Don’t waste precious space telling people why the topic is important. Instead tell the reader what benefit or outcome they will get by reading this article.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>4. Authority</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Show people why you are the right person to teach them this and why the topic is important to you or why you put this together.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>5. Outcome/Benefit</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mention the outcome or benefit again.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>6. Transition</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Transition into your article again.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The introduction shown below has all the six elements: </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":6024,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2021/11/Introduction-Template-Example-1.png" alt="introduction template example 1" class="wp-image-6024"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="write-your-conclusion">Write Your Conclusion</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>1. Outcome/Benefit</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Reemphasize the outcome or benefit they will be able to achieve by applying what they read in the article.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>2. Comment CTA</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ask them to leave a comment mentioning what they liked best in the article. To make it easier for them to comment, give them two options and ask them to pick.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>3. Share CTA</strong>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ask them to share the article on social media.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>4. Other CTA</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tell them to check out another article on your website or mention a premium offer or product where they can get more value.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here is an example of a conclusion that uses three of the four elements of a conclusion:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":6027,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2021/11/Conclusion-Template-Example.png" alt="conclusion template example" class="wp-image-6027"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="craft-the-blog-title">Craft The Blog Title</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You have to write two different titles: one for search engines and another one for social media. You can use a separate social media title in your Social Media Plugin.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>SEO Title</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Your SEO title will be the same as the actual title you use in your blog. It is important not to reinvent the wheel. Search your target keyword in Google. Look at what is already ranking in the top 5 search results. Model your own blog post title after what is already ranking on top.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here are a few best practices:&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Include your keyword (if possible early on in the title). Here is an example for the keyword "How to Train a Puppy".</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"align":"center","id":5442,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image aligncenter size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2021/11/Include-Keyword-in-SEO-Title-Example.png" alt="include keyword in seo title example" class="wp-image-5442"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul><li>Include odd numbers as they tend to have higher CTR. </li></ul>
+<!-- /wp:list -->
+
+<!-- wp:list -->
+<ul><li>Add the current year in your title if relevant (Example: In 2022). Here is an example of a list post that uses odd numbers (27) and also the current year in the SEO Title. </li></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"align":"center","id":5443,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image aligncenter size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2021/11/Odd-Numbers-in-SEO-Title.png" alt="odd numbers in seo title" class="wp-image-5443"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul><li>Don’t write clickbait titles for SEO.&nbsp;</li><li>Make sure your title is not too long that it gets truncated in search results (check both mobile and desktop). Use your SEO plugin or a tool like <a rel="noreferrer noopener" href="https://metatags.io/" target="_blank">metatags.io</a> to check this.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"align":"center","id":5445,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image aligncenter size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2021/11/Meta-Tags-Too-Long-for-Google.png" alt="meta tags too long for google" class="wp-image-5445"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Social Media Title</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Unlike the tiles you write for search engines, you want to try to write clickbait titles when it comes to social media. Get inspiration from viral sites like <a href="https://buzzfeed.com" target="_blank" rel="noreferrer noopener">BuzzFeed</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here are a few templates to work with:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Curiosity gap headlines (Example: 15 Money Management Tips People Wish They Had Known Before College)</li><li>Emotional Headlines. (Example: I Got Plastic Surgery And I Regret It)</li><li>Product Headlines. (Example: 38 Things That’ll Practically Keep Your Home Clean For You)</li><li>News Headlines. (Example: People Are Freaking Out Over This Pink Mac And Cheese That Kraft Is Releasing For Valentine’s Day)</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"align":"center","id":5483,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/Buzzfeed-Social-Media-Headlines.jpg" alt="buzzfeed social media headlines" class="wp-image-5483"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="add-your-images">Add Your Images</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You can use images to break up a wall of text into small digestible chunks. The right images can tremendously increase the value of your post.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>No Fluff Images</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You should use images to visually explain something from your content. Do not use images that add no value to your content.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In the below example, the image of the puppy adds no value to describe the text below it. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5480,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/Fluff-Stock-Images.jpg" alt="fluff stock images" class="wp-image-5480"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>High-Quality Images</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Images should be of high resolution and not pixelated.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":5471,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/High-Resolution-vs-Low-Resolution-Images-1.jpg" alt="high resolution vs low resolution images" class="wp-image-5471"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>File Format</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Use .png images when you have graphics and vectors. Use .jpeg or .jpg images for photographs and screenshots.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":5596,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/JPEG-vs-PNG.jpg" alt="png vs jpeg" class="wp-image-5596"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Image Editing Software</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Use <a rel="noreferrer noopener" href="http://passivebook.com/go/canva/" target="_blank">Canva</a> to create and edit your images. It is your modern day photoshop and with the pro version, you won’t have to buy any stock photos. We create our blog post images using <a href="http://passivebook.com/go/canva/" target="_blank" rel="noreferrer noopener">Canva Pro</a>. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5100,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/Passive-Book-Images-Created-in-Canva-Pro.jpg" alt="passivebook images created in canva pro" class="wp-image-5100"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>If you want to get stock photography here are a few websites for you to consider:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Free Options:</strong> <a href="https://pixabay.com/" target="_blank" rel="noreferrer noopener">Pixabay</a>, <a href="https://www.pexels.com/" target="_blank" rel="noreferrer noopener">Pexels</a>, <a href="https://unsplash.com/" target="_blank" rel="noreferrer noopener">Upsplash</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Paid Options:</strong> <a href="http://passivebook.com/go/depositphotos/" target="_blank" rel="noreferrer noopener">Deposit Photos</a>, <a rel="noreferrer noopener" href="http://passivebook.com/go/shutterstock/" target="_blank">Shutterstock</a>, <a rel="noreferrer noopener" href="http://passivebook.com/go/istockphoto/" target="_blank">iStock</a>, <a rel="noreferrer noopener" href="http://passivebook.com/go/gettyimages/" target="_blank">Getty Images</a>, <a rel="noreferrer noopener" href="http://passivebook.com/go/123rf/" target="_blank">123rf</a>.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5474,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/Depositphotos-Homepage.jpg" alt="depositphotos" class="wp-image-5474"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="add-other-visual-elements">Add Other Visual Elements</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Apart from images, you can also include the following elements to enrich your content:&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Embed Videos: </strong>Find a relevant video from YouTube and embed it in your blog.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5478,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/Embed-Videos.jpg" alt="embed videos" class="wp-image-5478"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Quote Boxes:</strong> Use quote boxes to visually break up your content.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>"This is an example of a quote box"</p><cite>- quote by Passive Book</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p><strong>Table of Contents:</strong> Add a table of contents in the beginning of your post like Wikipedia. It not only helps quickly jump around the different sections but also provides a high level summary of the article.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Use <a rel="noreferrer noopener" href="https://wordpress.org/plugins/ultimate-addons-for-gutenberg/" target="_blank">Ultimate Addons for Gutenberg</a> Plugin to add Table of Contents and Quote Boxes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":6169,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/Table-of-Contents-Example.png" alt="table of contents example" class="wp-image-6169"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="step-3-edit-your-post">Step 3: Edit Your Post</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Now that you have written your post, it is time to edit and polish it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Fix Grammar, Spelling &amp; Punctuation</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Use a tool like <a rel="noreferrer noopener" href="http://passivebook.com/go/grammarly" target="_blank">Grammarly</a> to fix grammar, spelling and punctuation issues.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":5532,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image aligncenter size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/Grammarly-Editor.jpg" alt="grammarly editor" class="wp-image-5532"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Improve Reading Level</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Use the <a rel="noreferrer noopener" href="https://hemingwayapp.com/" target="_blank">hemingway editor</a> to turn passive voice to active voice. Also use it to break down complex sentences so that your article has the reading level of a fifth grader.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5149,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/Hemingway-Editor.png" alt="hemingway editor" class="wp-image-5149"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Add Internal Links</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Internal linking is important for SEO. Add links to your older blog articles from your new post. You should also go back to the old articles and add a link pointing to the new article.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To add a link, highlight the text you want to hyperlink in the WordPress editor and follow the steps shown in the screenshot below: </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5535,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/Steps-to-Add-Link-in-WordPress.png" alt="steps to add link in wordpress" class="wp-image-5535"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Check for Plagiarism</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you outsourced your article, you must ensure that the article you received is not plagiarized. You can do this using the pro version of <a rel="noreferrer noopener" href="http://passivebook.com/go/grammarly" target="_blank">Grammarly</a> or using a <a rel="noreferrer noopener" href="http://www.plagiarizechecker.com/" target="_blank">free plagiarism checker</a>.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":5542,"sizeSlug":"large","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image aligncenter size-large imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/Grammarly-Plagiarism-Checker-150x150.png" alt="grammarly plagiarism checker" class="wp-image-5542"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Optimize Topic Model</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You can optimize your article to include all the list of words and phrases that are relevant for your topic according to search engines. This is an optional step and will require you to get a paid tool like <a rel="noreferrer noopener" href="http://passivebook.com/go/frase" target="_blank">Frase</a>, <a rel="noreferrer noopener" href="http://passivebook.com/go/surferseo" target="_blank">SurferSEO</a> or <a rel="noreferrer noopener" href="http://passivebook.com/go/marketmuse" target="_blank">MarketMuse</a>.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5545,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/Frase-Optimize-Content.png" alt="frase optimize content" class="wp-image-5545"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Read Aloud</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Once you are done making all the edits to your article, it is time to read it aloud. You will catch mistakes that you would have missed when you read the article quietly. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you wrote your article in MS Word, then the newer versions will have a built in text to speech feature that you can use. Just select the text you want to read aloud and click "Speak" in the review tab. &nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5547,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/Word-Text-to-Speech.png" alt="word text to speech" class="wp-image-5547"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="step-4-publish-your-post">Step 4: Publish Your Post</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Publish blog posts using the post section on WordPress. The interface is similar to pages which we used earlier for static content like Contact page and Privacy Policy.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Go to <strong>WordPress Dashboard &gt; Posts &gt; Add New.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Write the headline of your content.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Populate the body content. Once you are happy with the changes click the publish button.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":3507,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://passivebook.com/wp-content/uploads/2021/10/Create-WP-Content-2.png" alt="create wp content 2" class="wp-image-3507"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>You add different WordPress Gutenberg blocks by clicking on the plus icon in the WordPress Editor. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5611,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/Show-All-Guttenberg-Blocks-Plus.png" alt="show all guttenberg blocks plus" class="wp-image-5611"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>For example, you can use the image block to add images.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":5605,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image aligncenter size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2021/11/Guttenberg-Blocks-List.png" alt="guttenberg blocks list " class="wp-image-5605"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Make sure you have a descriptive alt text describing the image. Click on the image and you will find the option to specify in the block option. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5614,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/Set-Image-Alt-Text.png" alt="set image alt text" class="wp-image-5614"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By default your URL slug will have your post title. Long tail keywords that people used to optimize for, are now obsolete. So replace it with just the medium tail keyword of your article. Remove any years, adjectives and stop words from the URL.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":5616,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image aligncenter size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2021/11/Set-URL-Slug.jpg" alt="set url slug" class="wp-image-5616"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Complete the optimizations suggested by your SEO plugin. This will include populating your Meta Title and Meta Description. This will determine how you page appears in the search results.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":5622,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image aligncenter size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2021/11/Set-SEO-Meta-Tags.png" alt="set seo meta tags" class="wp-image-5622"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Set your featured image. Create this image in <a rel="noreferrer noopener" href="http://passivebook.com/go/canva/" target="_blank">Canva</a>.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5624,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2021/11/Set-Featured-Image.png" alt="set featured image" class="wp-image-5624"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>If you have a social media plugin, update the images for Facebook, Twitter and Pinterest shares as well. You can create these images on <a rel="noreferrer noopener" href="http://passivebook.com/go/canva/" target="_blank">Canva</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you have a social media plugin, you can also use a different title for Facebook and set the text that gets tweeted on twitter.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5887,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/Set-Social-Media-Images.png" alt="set social media images" class="wp-image-5887"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>If you have an FAQ section in the blog post, then you may want to use the question and answer schema. Use the FAQ block from the <a rel="noreferrer noopener" href="https://wordpress.org/plugins/ultimate-addons-for-gutenberg/" target="_blank">Ultimate Addons for Gutenberg</a> Plugin.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5888,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/Create-FAQ-Section.png" alt="create faq section" class="wp-image-5888"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Click on each link and check if it is not broken.&nbsp;I also make sure all hyperlinks open in a new tab. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5891,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/Set-Links-to-Open-in-New-Tab.png" alt="set links to open in new tab" class="wp-image-5891"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:uagb/faq {"block_id":"a5c6d85b","layout":"grid","inactiveOtherItems":false,"expandFirstItem":false,"enableSchemaSupport":true,"enableSeparator":true,"boxBgColor":"transparent","questionTextColor":"","questionTextActiveColor":"","questionTextBgColor":"","vquestionPaddingDesktop":15,"hquestionPaddingDesktop":15,"answerTextColor":"#313131","questionloadGoogleFonts":true,"questionFontWeight":"600","icon":"","iconActive":"","iconAlign":"row-reverse","iconSize":20,"iconSizeTablet":12,"iconSizeMobile":12,"columns":1,"schema":"{\u0022@context\u0022:\u0022https://schema.org\u0022,\u0022@type\u0022:\u0022FAQPage\u0022,\u0022@id\u0022:\u0022https://passivebook.com/blogging/start-a-blog/\u0022,\u0022mainEntity\u0022:[{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022What should your first blog post be about?\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Your first blog post should be an “About” post. Talk a little bit about who you are, why you started your blog, who your blog is for and what it will help your readers achieve. Your about page should focus on the benefits the reader will get by reading your blog.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022How often should you blog? \u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Try to blog at least once a week during the early stages to help your blog get traction. Once your blog is more established, you can reduce the frequency. More than the quantity of posts that you write, focus on the quality of the content.\u0022}}]}","enableToggle":false,"questionLeftPaddingDesktop":15,"questionBottomPaddingDesktop":15,"answerTopPadding":0,"answerRightPadding":15,"answerBottomPadding":15,"answerLeftPadding":15,"answerTopPaddingTablet":10,"answerRightPaddingTablet":10,"answerBottomPaddingTablet":10,"answerLeftPaddingTablet":10,"answerTopPaddingMobile":10,"answerRightPaddingMobile":10,"answerBottomPaddingMobile":10,"answerLeftPaddingMobile":10,"overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderTopLeftRadius":0,"overallBorderTopRightRadius":0,"overallBorderBottomLeftRadius":0,"overallBorderBottomRightRadius":0,"overallBorderStyle":"solid","overallBorderColor":"#dedede"} -->
+<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-a5c6d85b uagb-faq-icon-row-reverse uagb-faq-layout-grid uagb-faq-expand-first-false uagb-faq-inactive-other-false uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="false" role="tablist"><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","@id":"https://passivebook.com/blogging/start-a-blog/","mainEntity":[{"@type":"Question","name":"What should your first blog post be about?","acceptedAnswer":{"@type":"Answer","text":"Your first blog post should be an “About” post. Talk a little bit about who you are, why you started your blog, who your blog is for and what it will help your readers achieve. Your about page should focus on the benefits the reader will get by reading your blog."}},{"@type":"Question","name":"How often should you blog? ","acceptedAnswer":{"@type":"Answer","text":"Try to blog at least once a week during the early stages to help your blog get traction. Once your blog is more established, you can reduce the frequency. More than the quantity of posts that you write, focus on the quality of the content."}}]}</script><!-- wp:uagb/faq-child {"block_id":"5be897f1","question":"What should your first blog post be about?","answer":"Your first blog post should be an “About” post. Talk a little bit about who you are, why you started your blog, who your blog is for and what it will help your readers achieve. Your about page should focus on the benefits the reader will get by reading your blog.","icon":"","iconActive":"","layout":"grid"} -->
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-5be897f1" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-question">What should your first blog post be about?</span></div><p class="uagb-faq-content">Your first blog post should be an “About” post. Talk a little bit about who you are, why you started your blog, who your blog is for and what it will help your readers achieve. Your about page should focus on the benefits the reader will get by reading your blog.</p></div>
+<!-- /wp:uagb/faq-child -->
+
+<!-- wp:uagb/faq-child {"block_id":"abd06152","question":"How often should you blog? ","answer":"Try to blog at least once a week during the early stages to help your blog get traction. Once your blog is more established, you can reduce the frequency. More than the quantity of posts that you write, focus on the quality of the content.","icon":"","iconActive":"","layout":"grid"} -->
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-abd06152" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-question">How often should you blog? </span></div><p class="uagb-faq-content">Try to blog at least once a week during the early stages to help your blog get traction. Once your blog is more established, you can reduce the frequency. More than the quantity of posts that you write, focus on the quality of the content.</p></div>
+<!-- /wp:uagb/faq-child --></div>
+<!-- /wp:uagb/faq -->
+
+<!-- wp:heading -->
+<h2 id="promote-your-blog-post">Promote Your Blog Post</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Once you write your blog post, it is time to promote it. If you did everything right you will see the blog post get organic traffic from the search engines in the long term. Promoting your blog post will ensure you see success sooner.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="search-engine-optimization-seo"><strong><a href="http://passivebook.com/seo/" target="_blank" rel="noreferrer noopener">Search Engine Optimization (SEO)</a></strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Doing SEO for your blog posts will give you evergreen traffic to your website. We saw how to do a little bit of on-page SEO in this article. But if you get links from other websites (aka off-page SEO), it will make your website rank faster in the search engines.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="email-marketing"><strong><a href="http://passivebook.com/email-marketing/" target="_blank" rel="noreferrer noopener">Email Marketing</a></strong> </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Once you have published your post, share it with your email subscribers. Your email subscribers will always be your first set of visitors. That is why it is really important to always be building your email list.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="social-media-marketing"><strong>Social Media Marketing</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Once you create your social media images, you can share it with your social media followers if you have any. Even if you don’t have that many social media followers, you can use hashtags to get more visibility.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Focus on building your following in the social media platform that works best for your audience, instead of trying to be everywhere.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you use a social media tool like <a rel="noreferrer noopener" href="http://passivebook.com/go/socialbee/" target="_blank">SocialBee</a> then you can automatically reshare the post on a regular basis so that your blog post never becomes stale.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5894,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://passivebook.com/wp-content/uploads/2022/08/Schedule-Social-Media-Posts-on-SocialBee.jpg" alt="schedule social media posts on socialbee" class="wp-image-5894"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="guest-blogging"><strong>Guest blogging</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You can grow your subscriber base and get backlinks required for SEO rankings, by writing guest posts in other blogs and websites. Do not write a guest post until you have enough published content on your website.&nbsp;You can link to different blog posts from the body of your article. You can also use the author bio to directly link to the home page of your website. In Kristi Hines's author bio she links to her website using the anchor text "freelance writer" that will help her website rank for that specific term:  </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5896,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/Guest-Posting-Author-Box.png" alt="guest posting neil patel" class="wp-image-5896"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="blog-comments">Blog <strong>Comment</strong>s</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>One of the old ways to grow your blog’s traffic is to become friends with other bloggers. A quick way to do this is to comment on their blog. This won’t get you a lot of traffic but it is a great way to build a relationship and possibly get links in the future.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5900,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/Comment-to-Network-with-Other-Bloggers.png" alt="comment to network with other bloggers" class="wp-image-5900"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 id="monetize-make-money-blogging">Monetize &amp; Make Money Blogging</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You can start thinking about monetizing your blog once you have at least 50 blog posts that bring you at least 1000 page views per month.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="sell-advertising-space">Sell Advertising Space</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You can sell ad space in niches that cannot be monetized using affiliate marketing and digital products. The amount of money you make depends on the number of posts you have and the amount of traffic you get. New websites can monetize with Google Adsense or Media.net. Once you have more than 10,000 page views per month, you can switch to <a rel="noreferrer noopener" href="http://passivebook.com/go/ezoic" target="_blank">Ezoic</a> (they pay more than Google Adsense).&nbsp;When your blog traffic has exploded you can monetize with Adthrive. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table><thead><tr><th class="has-text-align-left" data-align="left"><strong>Ad Network</strong></th><th class="has-text-align-center" data-align="center"><strong>Revenue/1K Impressions</strong></th><th class="has-text-align-left" data-align="left"><strong>Requirement</strong></th></tr></thead><tbody><tr><td class="has-text-align-left" data-align="left"><a href="http://passivebook.com/go/adthrive" target="_blank" rel="noreferrer noopener">Adthrive</a>&nbsp;</td><td class="has-text-align-center" data-align="center">$13</td><td class="has-text-align-left" data-align="left">100K monthly page views</td></tr><tr><td class="has-text-align-left" data-align="left"><a href="http://passivebook.com/go/ezoic" target="_blank" rel="noreferrer noopener">Ezoic</a></td><td class="has-text-align-center" data-align="center">$3</td><td class="has-text-align-left" data-align="left">10K monthly page views</td></tr><tr><td class="has-text-align-left" data-align="left"><a href="http://passivebook.com/go/medianet" target="_blank" rel="noreferrer noopener">Media.net</a></td><td class="has-text-align-center" data-align="center">$1&nbsp;</td><td class="has-text-align-left" data-align="left">None</td></tr><tr><td class="has-text-align-left" data-align="left"><a href="http://passivebook.com/go/adsense" target="_blank" rel="noreferrer noopener">Google Adsense</a></td><td class="has-text-align-center" data-align="center">$1</td><td class="has-text-align-left" data-align="left">None</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="affiliate-marketing">Affiliate Marketing</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you want to make more money than you can by selling ad space, you can promote affiliate products using your affiliate links instead. It also makes your website look less spammy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You get paid when someone clicks your affiliate link and buys. Create an account with an affiliate network like <a href="http://passivebook.com/go/impact/" target="_blank" rel="noreferrer noopener">Impact</a> to get started.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":2680,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/How-Affiliate-Marketing-Works.png" alt="how affiliate marketing works 2" class="wp-image-2680"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Interested in promoting a specific company? Most company’s also have a link to their affiliate program in their website’s footer.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There is no specific traffic requirement for affiliate marketing. But it helps to have at least a few pages of content published on your website before you apply. It helps you get approved faster.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="digital-products">Digital Products&nbsp;</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Once you have built a large enough email list with at least 5k to 10k subscribers, you can start selling digital products like books or courses. Do not invest time creating digital products when you don’t have an email list. You won’t sell much without an email list. Anthony sells fitness courses on his website <a rel="noreferrer noopener" href="https://fitfatherproject.com/" target="_blank">FitFatherProject</a>:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5913,"sizeSlug":"full","linkDestination":"none","className":"imageborder"} -->
+<figure class="wp-block-image size-full imageborder"><img src="http://passivebook.com/wp-content/uploads/2022/08/Digital-Products-FitFatherProject.jpg" alt="digital products fitfatherproject" class="wp-image-5913"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="sell-services">Sell Services</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You can offer services, consulting or coaching to your blog visitors. Keep in mind that if your blog gets popular it is easy to get overwhelmed. You will be trading time for money unless you learn to outsource.&nbsp;For example, Neil Patel's blog brings him leads for his consulting &amp; agency services: </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5911,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/Neil-Patel-Consulting.jpg" alt="neil patel consulting" class="wp-image-5911"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="physical-products">Physical Products&nbsp;</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Similar to digital products you can sell physical products on your blog by having a Woocommerce store. You can go the traditional ecommerce route and store your inventory or have a print on demand business that has no inventory.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":2674,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://passivebook.com/wp-content/uploads/2022/08/How-Print-on-Demand-Works.png" alt="how print on demand works" class="wp-image-2674"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 id="what-next">What Next?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you have any questions as you set up your new blog, leave a comment below so we can help you out.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Blogging is and will remain one of the most lucrative online business models for years to come. If blogging is taken seriously, it can make you rich and help you quit your day job.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Have you started your blog yet? What is holding you back? Let us know in the comments.&nbsp;&nbsp;</p>
+<!-- /wp:paragraph -->
